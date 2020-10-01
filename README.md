@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=civilcoder55)](https://github.com/anuraghazra/github-readme-stats)
 <img src="/b.png">
 
 ## Hi there , welcome to my area 👋
@@ -7,6 +8,6 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=civilcoder55)
 - 🔭 I’m currently working on social media post scheduler .
 - 👯 I’m looking to collaborate on nodejs/python backend projects .
