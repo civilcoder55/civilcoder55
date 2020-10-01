@@ -10,5 +10,3 @@ I'm a self-taught back-end developer who is passionate about developing web serv
 
 - 🔭 I’m currently working on social media post scheduler .
 - 👯 I’m looking to collaborate on nodejs/python backend projects .
-- ⚡ backend : python with django , nodejs with express.js .
-- ⚡ databases : mongodb , mysql , sqlite
