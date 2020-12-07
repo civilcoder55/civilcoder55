@@ -9,5 +9,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=civilcoder55)
-- 🔭 I’m currently working on social media post scheduler .
-- 👯 I’m looking to collaborate on nodejs/python backend projects .
+- 🔭 I’m currently working on social media post scheduler using laravel framework .
+- 👯 I’m looking to collaborate on backend projects .
