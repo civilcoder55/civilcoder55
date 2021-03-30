@@ -9,6 +9,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=civilcoder55)
-- 🔭 I’m currently working on social media post scheduler using laravel framework and refactoring some old projects.
+- 🔭 I’m currently working on scaling api projects .
 - 💡 I'm currently learning Typescript and clean code concepts .
 - 👯 I’m looking to collaborate on backend projects .
