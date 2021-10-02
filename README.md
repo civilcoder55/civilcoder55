@@ -4,7 +4,7 @@
 ## Hi there 👋 !
 
 
-### About Me 🛠️
+### About Me ✔️
 #### I'm self-taught developer, focused on back-end development, Passionate about software engineering and learning constantly. Aiming to have the ability to design,architect, and build secure, scalable, and high-performing back-end systems .  
 
 
@@ -15,10 +15,10 @@
 - **Databases** : SQL(MYSQL) - NoSQL(MongoDB) - In-Memory(Redis).
 - **Version-Control** : Git/Github .
 - **Web server** : Apache - Nginx .
-- **DevOPs** : Docker .
+- **DevOPs** : Docker, Github Actions.
 - **Searching Engines** : Elasticsearch , Algolia .
 - **Serverless Computing** : Serverless framework with aws and dynamodb .
-- **Cloud Platforms** : AWS, Firebase, Vultr , Digitalocean .
+- **Cloud Platforms** : AWS, Vultr, Heroku, Digitalocean .
 - **Other** : Graphql .
 
 
