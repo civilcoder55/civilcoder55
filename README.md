@@ -8,7 +8,7 @@
 #### I'm self-taught developer, focused on back-end development, Passionate about software engineering and learning constantly. Aiming to have the ability to design,architect, and build secure, scalable, and high-performing back-end systems .  
 
 
-### Skills 🛠️
+<!-- ### Skills 🛠️
 - **Languages** : Python - JavaScript - PHP .
 - **Back-end** : Django - Express (Nodejs) - Laravel .
 - **Front-end**: HTML - CSS  - JQuery - React & Vue basics .
@@ -19,7 +19,7 @@
 - **Searching Engines** : Elasticsearch , Algolia .
 - **Serverless Computing** : Serverless framework with aws and dynamodb .
 - **Cloud Platforms** : AWS, Vultr, Heroku, Digitalocean .
-- **Other** : Graphql .
+- **Other** : Graphql . -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=civilcoder55" /> </p>
