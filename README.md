@@ -5,7 +5,7 @@
 
 
 ### About Me ✔️
-#### I'm self-taught developer, focused on back-end development, Passionate about software engineering. Aiming to level up my skills to design, architect, and build secure, scalable, and high-performing back-end systems.
+#### I'm self-taught developer, focused on back-end development, Passionate about software engineering. Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.
 
 #### I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets.
 <!-- #### One of my future goals is to contribute to open-source projects and participate in helping the community. -->
