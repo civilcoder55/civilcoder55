@@ -43,3 +43,10 @@
  -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civilcoder55&theme=city_lights&&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civilcoder55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=webrtc-demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=laravel-auction-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=django-rest-framework-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=clean-code-practice)](https://github.com/anuraghazra/github-readme-stats)
