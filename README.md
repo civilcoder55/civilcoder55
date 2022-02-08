@@ -5,10 +5,9 @@
 
 
 ### About Me ✔️
-#### I'm self-taught developer, focused on back-end development, Passionate about software engineering. Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.
+I'm self-taught developer, focused on back-end development, Passionate about software engineering. Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.
 
-#### I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets.
-<!-- #### One of my future goals is to contribute to open-source projects and participate in helping the community. -->
+I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets.
 
 
 
@@ -45,8 +44,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civilcoder55&theme=city_lights&&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civilcoder55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=webrtc-demo)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=laravel-auction-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=django-rest-framework-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=civilcoder55&repo=clean-code-practice)](https://github.com/anuraghazra/github-readme-stats)
