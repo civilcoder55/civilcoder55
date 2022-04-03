@@ -5,9 +5,31 @@
 
 
 ### About Me 👨‍💻 :
-I'm self-taught developer, focused on back-end development, Passionate about software engineering. Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.
 
-I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets.
+```javascript
+const express = require("express");
+
+const app = express();
+
+app.get("/info", (req, res, next) => {
+  return res.json({
+    name: "Omar.E",
+    email: "",
+    role: "Backend Developer",
+    about:
+      "self-taught developer, focused on back-end development, \
+      Passionate about software engineering. \
+      Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.",
+    availableForHiring: true,
+  });
+});
+
+app.listen(3000, () => {
+  console.log("Server running on port 3000");
+});
+```
+
+<!-- I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets. -->
 
 
 <!-- ### Skills 🛠️
