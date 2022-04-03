@@ -13,7 +13,7 @@ const app = express();
 
 app.get("/info", (req, res, next) => {
   return res.json({
-    name: "Omar.E",
+    name: "Omar.A",
     email: "",
     role: "Backend Developer",
     about:
