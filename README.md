@@ -1,5 +1,6 @@
 
 <!-- <img src="/b.png">  -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=civilcoder55" /> </p>
 
 ## Hi there 👋 !
 
@@ -49,9 +50,11 @@ app.listen(3000, () => {
 
 ### My Github Stats 📉 :
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=civilcoder55" /> </p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civilcoder55&theme=city_lights&hide=issues&show_icons=true&count_private=true)
+
+***
+### My Top Languages 📚 :
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civilcoder55&layout=compact&theme=city_lights&hide=blade)
 
 ***
