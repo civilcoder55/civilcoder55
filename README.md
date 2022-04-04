@@ -2,10 +2,9 @@
 <!-- <img src="/b.png">  -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilcoder55" /> </p>
 
-## Hi there 👋 !
+<h2 align="center">Hi there 👋 !</h2>
 
-
-### About Me 👨‍💻 :
+<h3 align="center">About Me 👨‍💻 </h3>
 
 ```javascript
 const express = require("express");
@@ -47,18 +46,21 @@ app.listen(3000, () => {
 - **Other** : Graphql . -->
 
 ***
+<h3 align="center">My Github Stats 📉 </h3>
 
-### My Github Stats 📉 :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=civilcoder55&theme=city_lights&hide=issues&show_icons=true&count_private=true)
-
-***
-### My Top Languages 📚 :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civilcoder55&layout=compact&theme=city_lights&hide=blade)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=civilcoder55&theme=city_lights&hide=issues&show_icons=true&count_private=true" />
+</p>
 
 ***
-### Tools I Usually Use 🛠️ :
+<h3 align="center">My Top Languages 📚 </h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=civilcoder55&layout=compact&theme=city_lights&hide=blade" />
+</p>
+
+***
+<h3 align="center">Tools I Usually Use 🛠️ </h3>
 
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white" /> 
