@@ -15,7 +15,7 @@ const app = express();
 app.get("/info", (req, res, next) => {
   return res.json({
     name: "Omar.A",
-    email: "",
+    email: "temp.dev.56@gmail.com",
     role: "Backend Developer",
     about:
       "self-taught developer, focused on back-end development, \
