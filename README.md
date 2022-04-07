@@ -29,6 +29,20 @@ app.listen(3000, () => {
 });
 ```
 
+***
+
+<h3 align="center">Social & Contacts 📱 </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-a-5956ba215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat?logoWidth=60" />
+  </a>
+
+  <a href="mailto: temp.dev.56@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat?logoWidth=60" />
+  </a>
+</p>
+
 <!-- I like to test my understanding and knowledge by building full and demo projects, playground practicing, and cheat sheets. -->
 
 
