@@ -34,7 +34,7 @@ app.listen(3000, () => {
 <h3 align="center">Social & Contacts 📱 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-a-5956ba215/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-a-5956ba215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat?logoWidth=60" />
   </a>
 
