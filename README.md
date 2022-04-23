@@ -19,7 +19,7 @@ app.get("/info", (req, res, next) => {
     about:
       "self-taught developer, focused on back-end development, \
       Passionate about software engineering. \
-      Aiming to level up my skills to design, and build secure, scalable, and high-performing back-end systems.",
+      Seeking to design, and build secure, scalable, and high-performing back-end systems.",
     availableForHiring: true,
   });
 });
