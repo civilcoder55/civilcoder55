@@ -17,9 +17,9 @@ app.get("/info", (req, res, next) => {
     email: "temp.dev.56@gmail.com",
     role: "Backend Engineer",
     about:
-      "Experienced and highly skilled back-end engineer with +4 years of expertise in designing, developing, and maintaining
+      `Experienced and highly skilled back-end engineer with +4 years of expertise in designing, developing, and maintaining
 secure, scalable, and high-performing back-end systems. Results-driven with a deep interest in low-level concepts,
-exploring the open-source world, and VoIP applications.",
+exploring the open-source world, and VoIP applications.`,
     availableForHiring: false,
   });
 });
