@@ -19,7 +19,8 @@ app.get("/info", (req, res, next) => {
     about:
       `Experienced and highly skilled back-end engineer with +4 years of expertise in designing, developing,
        and maintaining secure, scalable, and high-performing back-end systems.
-       Results-driven with a deep interest in low-level concepts, exploring the open-source world, and VoIP applications.`,
+       Results-driven with a deep interest in low-level concepts,
+      exploring the open-source world, and VoIP applications.`,
     availableForHiring: false,
   });
 });
