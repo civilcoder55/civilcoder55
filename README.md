@@ -1,47 +1,22 @@
+# Omar Abdo
 
-<!-- <img src="/b.png">  -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=civilcoder55" /> </p>
+Backend Engineer, Building and debugging real-world systems.
 
-<h2 align="center">Hi there 👋 !</h2>
+---
 
-<h3 align="center">About Me 👨‍💻 </h3>
+## About
 
-```javascript
-const express = require("express");
+I’ve been working in software engineering for 5 years, with a focus on backend systems, infrastructure, and reliability.
 
-const app = express();
+Experience spans startups, B2B SaaS, government platforms, omnichannel systems, business messaging, VoIP, and AI products.
 
-app.get("/info", (req, res, next) => {
-  return res.json({
-    name: "Omar.A",
-    email: "temp.dev.56@gmail.com",
-    role: "Backend Engineer",
-    about:
-      `Experienced and highly skilled back-end engineer with +4 years of expertise in designing, developing,
-       and maintaining secure, scalable, and high-performing back-end systems.
-       Results-driven with a deep interest in low-level concepts,
-      exploring the open-source world, and VoIP applications.`,
-    availableForHiring: false,
-  });
-});
+---
 
-app.listen(3000, () => {
-  console.log("🚀 Server running on port 3000");
-});
-```
+Trying to write more technical, human blogs: https://medium.com/@omarae00 and contributing to open-source from time to time.
 
-***
+---
 
-<h3 align="center">Social & Contacts 📱 </h3>
+## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-a-5956ba215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat?logoWidth=60" />
-  </a>
-
-  <a href="mailto: temp.dev.56@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat?logoWidth=60" />
-  </a>
-</p>
-
-
+* Email: [temp.dev.56@gmail.com](mailto:temp.dev.56@gmail.com)
+* LinkedIn: (https://www.linkedin.com/in/omar-a-5956ba215/)
