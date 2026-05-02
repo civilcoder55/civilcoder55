@@ -19,4 +19,4 @@ Trying to write more technical, human blogs: https://medium.com/@omarae00 and co
 ## Contact
 
 * Email: [temp.dev.56@gmail.com](mailto:temp.dev.56@gmail.com)
-* LinkedIn: (https://www.linkedin.com/in/omar-a-5956ba215/)
+* LinkedIn: https://www.linkedin.com/in/omar-a-5956ba215
